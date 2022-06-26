@@ -1,0 +1,20 @@
+{
+    "selectedArea": "",
+    "Areas": [
+        {
+            "area": "PEOPLE",
+            "name": "Human Resources",
+            "boss": "Yuri Natalia"
+        },
+        {
+            "area": "AMS",
+            "name": "Application Management System",
+            "boss": "Karina Miranda"
+        },
+        {
+            "area": "ERP",
+            "name": "Enterprise Resource Planning",
+            "boss": "Mildreth Pico"
+        }
+    ]
+}

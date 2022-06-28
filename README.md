@@ -17,5 +17,5 @@ This repository was created to improve my skills on:
  - Odata Service
 
 
-This Fiori app show a list with the areas of a company (Mockdata-based).
+This Fiori app show a list with the areas of a company (Mockdata-based).<br>
 It also has a button to show the boss of the area.

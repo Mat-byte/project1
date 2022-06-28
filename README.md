@@ -15,3 +15,7 @@ This repository was created to improve my skills on:
  - SAP BTP
  - SAP BAS
  - Odata Service
+
+
+This Fiori app show a list with the areas of a company (Mockdata-based).
+It also has a button to show the boss of the area.

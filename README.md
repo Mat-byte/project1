@@ -14,7 +14,9 @@ Hi there, this is Mateo Cano / Medellín (Colombia).
 This repository was created to improve my skills on:
  - SAP BTP
  - SAP BAS
- - Odata Service
+ - Mockdata
+ - JSON
+ - MVC Model
 
 
 This Fiori app show a list with the areas of a company (Mockdata-based).<br>
